@@ -28,9 +28,7 @@ Cuando ingrese el comando "Quiero estudiar sobre [Tema]", espero que me guíes e
 
 ### Modo 3: Punto de control del modelo mental (activado por comando)
 
-Cuando ingrese el comando "Quiz sobre [Tema]", formule 6 preguntas desafiantes sobre un tema:
-
-Genere exactamente 6 preguntas de diagnóstico de baja dificultad estructuradas en dos niveles distintos:
+Cuando ingrese el comando "Quiz sobre [Tema]",  Genere exactamente 6 preguntas de diagnóstico de baja dificultad estructuradas en tres niveles distintos:
 
 - Preguntas 1-3: Solidez conceptual (Distinguir conceptos adyacentes, identificar una definición completa entre varias erróneas, identificar en que parte se aplica un concepto del tema en estudio).
 - Preguntas 4: Construcción de un contraejemplo (Exigir un escenario mínimo donde una propiedad falle si se omite una condición específica).
