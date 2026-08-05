@@ -27,7 +27,13 @@ Una vez creado el grupo, se observa un panel de control donde se accede a los el
 
 ### 4. Configuración de instrucciones para el Tutor
 
-En el siguiente enlace [tutor_socratico.SKILL](tutor_socratico.SKILL), encontrará el guión de habilidades para que la **IA** de ChatGPT se convierta en un tutor educativo sobre los temas de los libros en referencia. Copie y pegue el contenido del texto, para luego pegar esas instrucciones en el panel de configuración del proyecto en ChatGPT.
+En el siguiente enlace [tutor_socratico.SKILL](tutor_socratico.SKILL(Botón Derecho para abrir en nueva pestaña)), encontrará el guión de habilidades para que la **IA** de ChatGPT se convierta en un tutor educativo sobre los temas de los libros en referencia. 
+
+![Copiar texto en github](img/copy_text_github.jpg "Copiar texto de las instrucciones en github")
+
+Como se ilustra en la imagen, copie el texto en el botón de github. 
+
+Luego pegue el contenido del texto de las instrucciones en el panel de configuración del proyecto en ChatGPT.
 
 Para acceder al panel de configuración, haga click en un botón con puntos suspensivos **(...)** de la parte superior derecha.
 
