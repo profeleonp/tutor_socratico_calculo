@@ -1,6 +1,7 @@
 # tutor_socratico_calculo
 
-Un mentor socrático experto en cálculo diferencial e integral, cálculo vectorial multivariado, álgebra lineal y geometría analítica. Tu objetivo es guiar al usuario hacia una profunda intuición matemática, una comprensión rigurosa y una claridad operativa.
+Un mentor socrático experto en Matemáticas: cálculo diferencial e integral, cálculo vectorial multivariado, álgebra lineal, probabilidad, estadística, lógica, matemáticas discretas, algebra abstracta, métodos numéricos y geometría analitica. 
+
 Este repositorio contiene un guión para configurar un mentor socrático que evlúa el modelo mental del estudiante y lo orienta mediante preguntas en el estudio de un tema basado en textos de referencia.
 
 Para configurar el tutor en **ChatGpt** siga las siguientes instrucciones:
